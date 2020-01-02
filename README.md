@@ -1,5 +1,5 @@
 # Creating a subcurrency
-[![Edit Project](https://studio.ethereum.org/static/img/open-studio.svg)](https://studio.ethereum.org/5e0d6b0026b4730012343077)
+[![Edit Project](https://studio.ethereum.org/static/img/open-studio.svg)](https://studio.ethereum.org/5e0d6b0026b4730012343077?showTransactions=1&hideExplorer=1)
 https://studio.ethereum.org/5e0d6b0026b4730012343077
 
 This project is an example application that teaches you how to:
